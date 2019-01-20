@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlayerStats:jar">
+    <output-path>D:/Users/Noah/Documents/Minecraft Servers/doei/plugins</output-path>
+    <root id="archive" name="PlayerStats.jar">
+      <element id="module-output" name="PlayerStats" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,20 @@
+name: PlayerStats
+version: 2.0
+main: me.nowaha.playerstats.PlayerStats
+api-version: 1.13
+authors: [Nowaha]
+softdepend:
+  - Vault
+  - PermissionsEx
+  - LuckPerms
+description: View information about yourself.
+website: www.noahverkaik.com
+commands:
+  stats:
+    description: View the statistics of yourself or a specific player.
+    usage: /stats [player]
+permissions:
+  stats.self:
+    description: Allows you to view your own stats.
+  stats.other:
+    description: Allows you to view other's stats.

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="BKCommonLib-1.13.2-v2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Minecraft Servers/doei/plugins/BKCommonLib-1.13.2-v2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/Minecraft Servers/doei/plugins/PermissionsEx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
